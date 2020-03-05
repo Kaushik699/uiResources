@@ -15,3 +15,6 @@ https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/?download
 
 Find SVG Icons Here
 https://www.flaticon.com/
+
+Colour Scheme for Whole Website
+https://coolors.co/export/pdf/ebf4ee-4c5760-41a871-aef2d8-1aa83b

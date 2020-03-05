@@ -12,3 +12,6 @@ https://bootstrapmade.com/demo/SoftLand/
 
 Link to download the above Homepage source code
 https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/?download_theme=softland.zip
+
+Find SVG Icons Here
+https://www.flaticon.com/
